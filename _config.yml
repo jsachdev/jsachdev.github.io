@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jai Sachdev"
   avatar           : "profile.png"
-  bio              : ""
+  bio              : "I should add a bio"
   location         : # "Location"
-  employer         : "https://www.pppl.gov/"
+  employer         : # "https://www.pppl.gov/"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=edRjPScAAAAJ&hl=en"
   email            :
