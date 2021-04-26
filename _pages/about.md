@@ -9,4 +9,3 @@ redirect_from:
 ---
 
 This website is under construction and was forked from [academicpages template](https://github.com/academicpages/academicpages.github.io).
-
