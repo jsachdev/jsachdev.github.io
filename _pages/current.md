@@ -7,25 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-TRANSP CI/CD
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## TRANSP Modernization
+Stuff related to TRANSP modernization
 
-TRANSP Modernization
+## TRANSP
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Stuff related to TRANSP
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Pellet Ablation
+## Pellet Ablation
 ======
 * Skill 1
 * Skill 2
