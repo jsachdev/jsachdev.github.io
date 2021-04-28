@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Previous Interests"
+title: "Previous Research"
 permalink: /previous/
 author_profile: true
 ---
