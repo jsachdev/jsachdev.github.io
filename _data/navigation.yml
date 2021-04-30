@@ -11,3 +11,6 @@ main:
     
   - title: "Personal Interests"
     url: /personal/
+
+  - title: "GitHub Contributions"
+    url: /contributions/
