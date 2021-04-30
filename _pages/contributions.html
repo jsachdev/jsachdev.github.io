@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Contributions"
+permalink: /contributions/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<div class="github-widget" data-username="jsachdev"></div>
+<script src="https://unpkg.com/github-card@1.2.1/dist/widget.js"></script>
