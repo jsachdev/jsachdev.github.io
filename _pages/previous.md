@@ -17,7 +17,7 @@ Under construction.
 
 
 
-SU2 solves the compressible Navier-Stokes equations expressed in differential form as
+solves the compressible Navier-Stokes equations expressed in differential form as
 
 $$ \mathcal{R}(U) = \frac{\partial U}{\partial t} + \nabla \cdot \bar{F}^{c}(U) - \nabla \cdot \bar{F}^{v}(U,\nabla U) - S = 0 $$
 
