@@ -23,15 +23,15 @@ $$ \mathcal{R}(U) = \frac{\partial U}{\partial t} + \nabla \cdot \bar{F}^{c}(U) 
 
 where the conservative variables are the working variables and given by
 
-$$ U = \left{ \rho, \rho \bar{v}, \rho E \right}^T $$
+$$ U = \left \{ \rho, \rho \bar{v}, \rho E \right \}^\mathsf{T} $$
 
 $$S$$ is a generic source term, and the convective and viscous fluxes are
 
-$$ \bar{F}^{c} = \left{ \begin{array}{c} \rho \bar{v} \ \rho \bar{v} \otimes \bar{v} + \bar{\bar{I}} p \ \rho E \bar{v} + p \bar{v} \end{array} \right} $$
+$$ \bar{F}^{c} = \left \{ \begin{array}{c} \rho \bar{v} \ \rho \bar{v} \otimes \bar{v} + \bar{\bar{I}} p \ \rho E \bar{v} + p \bar{v} \end{array} \right \} $$
 
 and
 
-$$ \bar{F}^{v} = \left{ \begin{array}{c} \cdot \ \bar{\bar{\tau}} \ \bar{\bar{\tau}} \cdot \bar{v} + \kappa \nabla T \end{array} \right} $$
+$$ \bar{F}^{v} = \left \{ \begin{array}{c} \cdot \ \bar{\bar{\tau}} \ \bar{\bar{\tau}} \cdot \bar{v} + \kappa \nabla T \end{array} \right \} $$
 
 where $$\rho$$ is the fluid density, $$\bar{v}=\left\lbrace u, v, w \right\rbrace^\mathsf{T}$$ $$\in$$ $$\mathbb{R}^3$$ is the flow speed in Cartesian system of reference, $$E$$ is the total energy per unit mass, $$p$$ is the static pressure, $$\bar{\bar{\tau}}$$ is the viscous stress tensor, $$T$$ is the temperature, $$\kappa$$ is the thermal conductivity, and $$\mu$$ is the viscosity. The viscous stress tensor can be expressed in vector notation as
 
