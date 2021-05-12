@@ -23,7 +23,7 @@ $$ \mathcal{R}(U) = \frac{\partial U}{\partial t} + \nabla \cdot \bar{F}^{c}(U) 
 
 where the conservative variables are the working variables and given by
 
-$$ U = \left{ \rho, \rho \bar{v}, \rho E \right}^\mathsf{T} $$
+$$ U = \left{ \rho, \rho \bar{v}, \rho E \right}^T $$
 
 $$S$$ is a generic source term, and the convective and viscous fluxes are
 
