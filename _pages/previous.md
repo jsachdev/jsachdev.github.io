@@ -37,4 +37,4 @@ Under construction.
 
 # $$ \bar{\bar{\tau}}= \mu \left( \nabla \bar{v} + \nabla \bar{v}^{T} \right) - \mu \frac{2}{3} \bar{\bar I} \left( \nabla \cdot \bar{v} \right) $$
 
-# Assuming a perfect gas with a ratio of specific heats $$\gamma$$ and specific gas constant $$R$$, one can close the system by determining pressure from $$p = (\gamma-1) \rho \left[ E - 0.5(\bar{v} \cdot \bar{v} ) \right]$$ and temperature from the ideal gas equation of state $$T = p/(\rho R)$$. Conductivity can be a constant, or we assume a constant Prandtl number $$Pr$$ such that the conductivity varies with viscosity as $$\kappa = \mu c_p / Pr$$.
+# xAssuming a perfect gas with a ratio of specific heats $$\gamma$$ and specific gas constant $$R$$, one can close the system by determining pressure from $$p = (\gamma-1) \rho \left[ E - 0.5(\bar{v} \cdot \bar{v} ) \right]$$ and temperature from the ideal gas equation of state $$T = p/(\rho R)$$. Conductivity can be a constant, or we assume a constant Prandtl number $$Pr$$ such that the conductivity varies with viscosity as $$\kappa = \mu c_p / Pr$$.
