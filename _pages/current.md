@@ -10,5 +10,5 @@ author_profile: true
 Under construction.
 
 * TRANSP
-* DevOps for Research Software
-* Pellet Ablation
+* Best practices for scientific computing
+* Pellet ablation models
