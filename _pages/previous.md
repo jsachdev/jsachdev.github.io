@@ -22,8 +22,12 @@ Jai Sachdev, Ashvin Hosangadi and V. Sankaran
 
 ## Eulerian formulations for disperse and dilute particle phase
 
-"Numerical Solution Scheme for Inert, Disperse, and Dilute Gas-Particle Flows "
-J.S. Sachdev, C.P.T. Groth & J.J. Gottlieb, Int. J. Multiph. Flow 33, 282 (2007)
+Numerical methods for the solution of an Eulerian formulation of a disperse and dilute particle-phase of a gas-particle flow are capable of accurately representing expansion waves, which allow for regions of zero particles, but are problematic with compression waves. This limitation results in unphysical particle accumulation, particularly at boundaries, and excessive smearing of shear flows where the two streams have different particle concentrations. The cause of this issue was investigated by an investigation into the eigenstructure of the governing system of equations and a novel (and somewhat adhoc) multi-velocity formulation was described which can account for compression waves by splitting the particle-phase into distinct velocity families which are transported separately. Switching of the particle families at solid boundaries and due to momentum transfer with the gas-phase was conducted in a manner that enforces conservation of mass, momentum, and energy.
+
+"Numerical Solution Scheme for Inert, Disperse, and Dilute Gas-Particle Flows"
+J.S. Sachdev, C.P.T. Groth and J.J. Gottlieb
+[Int. J. Maltier. Flow 33, 282 (2007)](10.1016/j.ijmultiphaseflow.2006.09.001)
+
 
 ## Automated mesh generation for arbitrarily embedded interfaces
 
