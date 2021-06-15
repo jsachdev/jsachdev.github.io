@@ -11,6 +11,7 @@ redirect_from:
 
 Jai Sachdev is a computational physicist at the [Princeton Plasma Physics Laboratory](https://www.pppl.gov) in the Multiscale Integrated Modeling Group of the [Computational Sciences Department](https://cs.pppl.gov). His research interests include:
 - Multiscale integrated modeling in plasma physics and fluid dynamics,
+- Methods for mesh adaptation, including grid refinement and embedded boundaries,
 - Modeling of multi-phase fluids, gas-solid flows in particular,
 - High performance scientific computing, and
 - Best practices for scientific computing.
