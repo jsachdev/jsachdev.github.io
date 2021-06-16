@@ -27,12 +27,12 @@ Numerical methods for the solution of an Eulerian formulation of a disperse and 
 
 "Numerical Solution Scheme for Inert, Disperse, and Dilute Gas-Particle Flows"
 J.S. Sachdev, C.P.T. Groth and J.J. Gottlieb
-[Int. J. Multiphase Flow 33, 282 (2007)](10.1016/j.ijmultiphaseflow.2006.09.001)
+[Int. J. Maltier. Flow 33, 282 (2007)](10.1016/j.ijmultiphaseflow.2006.09.001)
 
 
 ## Mesh adaptation and refinement
 
-Development of a block-based adaptive mesh refinement (AMR) scheme for multi-block body-fitted structured meshes with automatic solution-directed mesh adaptation according to physics-based refinement criteria. Efficient and scalable parallel implementation achieved on distributed memory multi-processor architectures by evenly allotting the blocks to the available processors. In addition, mesh adjustment scheme was devised in which a body-fitted multi-block mesh is locally adjusted to embedded boundaries that are not aligned with the mesh. This scheme allowed for quick and robust parallel mesh generation involving complex embedded boundaries. The viability of this scheme was demonstrated for stationary and moving embedded boundaries. These algorithms were applied to problems involving microscale flows and multi-phase core flows in solid propellant rocket motor flows.
+Development of a block-based adaptive mesh refinement (AMR) scheme for multi-block body-fitted structured meshes with automatic solution-directed mesh adaptation according to physics-based refinement criteria. Efficient and scalable parallel implementation achieved on distributed memory multi-processor architectures by evenly alloting the blocks to the available processors. In addition, mesh adjustment scheme was devised in which a body-fitted multi-block mesh is locally adjusted to embedded boundaries that are not aligned with the mesh. This scheme allows for quick and robust parallel mesh generation involving complex embedded boundaries. The viability of this scheme has been demonstrated for stationary and moving embedded boundaries.
 
 "Application of Gaussian Moment Closure to Microscale Flows with Moving Embedded Boundaries"
 J.G. McDonald, J.S. Sachdev, and C.P.T. Groth
@@ -50,5 +50,3 @@ J. Sachdev, C. Groth, J. Gottlieb
 J. Sachdev, C. Groth, J. Gottlieb
 [Int. J. Comput. Fluid Dyn.](https://www.tandfonline.com/doi/abs/10.1080/10618560410001729135)
 
-
-![naca0012](https://user-images.githubusercontent.com/10472230/122145966-2df35b80-ce24-11eb-8acf-54b8511e819d.gif)
