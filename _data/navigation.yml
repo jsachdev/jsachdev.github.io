@@ -3,11 +3,5 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Current Research"
-    url: /current/
-
-  - title: "Previous Research"
-    url: /previous/
-
   - title: "Research"
     url: /research/
