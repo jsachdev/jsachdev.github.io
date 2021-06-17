@@ -44,6 +44,10 @@ Numerical methods for the solution of an Eulerian formulation of a disperse and 
 
 [J.S. Sachdev, C.P.T. Groth and J.J. Gottlieb Int. J. Multiphase Flow 33, 282 (2007)](10.1016/j.ijmultiphaseflow.2006.09.001)
 
+![jets_010](https://user-images.githubusercontent.com/10472230/122473243-927ef980-cf8f-11eb-8bf8-d3aa479a45b9.jpg)
+
+Contours of the particle concentration for crossing particle jets into a quiescent gas. Results for a single-velocity formulation on the left and a multi-velocity formulation on the right. The multi-velocity formulation shows the expected behavior for a disperse and dilute particle-phase.
+
 
 ## Mesh adaptation and refinement
 
@@ -53,5 +57,9 @@ Development of a block-based adaptive mesh refinement (AMR) scheme for multi-blo
 - [J.S. Sachdev and C.P.T. Groth Commun. Comput. Phys. 2 (2007), pp. 1095-1124](http://www.global-sci.com/intro/article_detail/cicp/7941.html)
 - [J. Sachdev, C. Groth, and J. Gottlieb AIAA 2005-5334](https://doi.org/10.2514/6.2005-5334)
 - [J. Sachdev, C. Groth, and J. Gottlieb Int. J. Comput. Fluid Dyn.](https://www.tandfonline.com/doi/abs/10.1080/10618560410001729135)
+
+![image](https://user-images.githubusercontent.com/10472230/122476398-1935d580-cf94-11eb-9d8b-e84f1c4190c9.png) ![image](https://user-images.githubusercontent.com/10472230/122476435-2b177880-cf94-11eb-8a96-0a565482cf15.png)
+
+Block-based adaptive mesh refinement of a supersonic flow over a bump with $$M_\infty = 2$$. Block boundaries shown in figures with each block containing 32 by 32 cells.
 
 ![naca0012](https://user-images.githubusercontent.com/10472230/122145966-2df35b80-ce24-11eb-8acf-54b8511e819d.gif)
