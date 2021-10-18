@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Interests Past ad Present"
+title: "Research Interests Past and Present"
 permalink: /research/
 author_profile: true
 ---
@@ -16,7 +16,7 @@ author_profile: true
 
 ## Best practices for scientific computing
 
-Regression testing, automation, containerization, ...
+Continuous testing, continuous deployment, automation, containerization, devops, ...
 
 
 ## Pellet ablation models
