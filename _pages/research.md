@@ -18,6 +18,8 @@ author_profile: true
 
 Continuous testing, continuous deployment, automation, containerization, devops, ...
 
+#[doi:10.6084/m9.figshare.7758305](https://figshare.com/articles/poster/Modernizing_the_Scientific_Software_Approach_for_the_Fusion_Analysis_Code_TRANSP/7758305)
+
 
 ## Pellet ablation models
 
