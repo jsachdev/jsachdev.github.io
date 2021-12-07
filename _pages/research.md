@@ -65,3 +65,15 @@ Development of a block-based adaptive mesh refinement (AMR) scheme for multi-blo
 Block-based adaptive mesh refinement of a supersonic flow over a bump with $$M_\infty = 2$$. Block boundaries shown in figures with each block containing 32 by 32 cells.
 
 ![naca0012](https://user-images.githubusercontent.com/10472230/122145966-2df35b80-ce24-11eb-8acf-54b8511e819d.gif)
+
+## Solid Propellant Rocket Motors
+
+Numerical schemes applied to internal solid propellant rocket motor flows.
+
+- [J. Sachdev, C. Groth, and J. Gottlieb AIAA 2005-5334](https://doi.org/10.2514/6.2005-5334)
+- [J. Sachdev, C. Groth, and J. Gottlieb Int. J. Comput. Fluid Dyn.](https://www.tandfonline.com/doi/abs/10.1080/10618560410001729135)
+
+Wambo art of PhD thesis:
+
+<img src="https://user-images.githubusercontent.com/10472230/145054792-a602281c-02d7-4d38-b6c3-0da8f45d12d6.png" width="500">
+
