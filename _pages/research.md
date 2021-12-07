@@ -75,5 +75,5 @@ Numerical schemes applied to internal solid propellant rocket motor flows.
 
 Wambo art of PhD thesis:
 
-<img src="https://user-images.githubusercontent.com/10472230/145054792-a602281c-02d7-4d38-b6c3-0da8f45d12d6.png" width="500">
+<img src="https://user-images.githubusercontent.com/10472230/145054792-a602281c-02d7-4d38-b6c3-0da8f45d12d6.png" width="320">
 
