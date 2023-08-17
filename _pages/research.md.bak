@@ -47,11 +47,11 @@ Preconditioning techniques used to alleviate numerical stiffness in steady low M
 
 ## CFD simulations of NASA rocket launch systems and components
 
-CFD studies performed on failure modes and risk assessments of NASA rocket launch vehicle systems and components, such as: propellant tank common bulkhead failures, analysis of flame deflector spray nozzles in rocket engine test stands, and failure analysis of pyrotechnically actuated valves.
+CFD studies performed on failure modes and risk assessments of NASA rocket launch vehicle systems and components, such as: propellant tank common bulkhead failures, analysis of flame deflector spray nozzes in rocket engine test stands, and failure analysis of pyrotechnically actuated valves.
 
-- [Jai Sachdev, Ashvin Hosangadi, Nateri Madavan and Scott Lawrence AIAA 2009-5150](https://doi.org/10.2514/6.2009-5150)
-- [Jai Sachdev, Vineet Ahuja, Ashvin Hosangadi and Daniel Allgood AIAA 2010-6972](https://doi.org/10.2514/6.2010-6972)
-- [Jai Sachdev, Ashvin Hosangadi, James Chenoweth, Regor Saulsberry and Stephen McDougle AIAA-2012-3799](https://doi.org/10.2514/6.2012-3799)
+[Jai Sachdev, Ashvin Hosangadi, Nateri Madavan and Scott Lawrence AIAA 2009-5150](https://doi.org/10.2514/6.2009-5150)
+[Jai Sachdev, Vineet Ahuja, Ashvin Hosangadi and Daniel Allgood AIAA 2010-6972](https://doi.org/10.2514/6.2010-6972)
+[Jai Sachdev, Ashvin Hosangadi, James Chenoweth, Regor Saulsberry and Stephen McDougle AIAA-2012-3799](https://doi.org/10.2514/6.2012-3799)
 
 
 ## Eulerian formulations for disperse and dilute particle phase
