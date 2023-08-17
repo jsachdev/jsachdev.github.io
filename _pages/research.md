@@ -9,7 +9,7 @@ author_profile: true
 
 ## T3D
 
-[T3D](t3d.readthedocs.io/en/latest/index.html) (or Trinity3D) is a transport solver for modeling macro-scale profile evolution in fusion plasmas (tokamaks and stellarators).
+[T3D](https://t3d.readthedocs.io/en/latest/index.html) (or Trinity3D) is a transport solver for modeling macro-scale profile evolution in fusion plasmas (tokamaks and stellarators).
 
 
 ## TRANSP
