@@ -45,6 +45,15 @@ Preconditioning techniques used to alleviate numerical stiffness in steady low M
 [Jai Sachdev, Ashvin Hosangadi and V. Sankaran AIAA 2012-3067](https://doi.org/10.2514/6.2012-3067)
 
 
+## CFD simulations of NASA rocket launch systems and components
+
+CFD studies performed on failure modes and risk assessments of NASA rocket launch vehicle systems and components, such as: propellant tank common bulkhead failures, analysis of flame deflector spray nozzles in rocket engine test stands, and failure analysis of pyrotechnically actuated valves.
+
+[Jai Sachdev, Ashvin Hosangadi, Nateri Madavan and Scott Lawrence AIAA 2009-5150](https://doi.org/10.2514/6.2009-5150)
+[Jai Sachdev, Vineet Ahuja, Ashvin Hosangadi and Daniel Allgood AIAA 2010-6972](https://doi.org/10.2514/6.2010-6972)
+[Jai Sachdev, Ashvin Hosangadi, James Chenoweth, Regor Saulsberry and Stephen McDougle AIAA-2012-3799](https://doi.org/10.2514/6.2012-3799)
+
+
 ## Eulerian formulations for disperse and dilute particle phase
 
 Numerical methods for the solution of an Eulerian formulation of a disperse and dilute particle-phase of a gas-particle flow are capable of accurately representing expansion waves, which allow for regions of zero particles, but are problematic with compression waves. This limitation results in unphysical particle accumulation, particularly at boundaries, and excessive smearing of shear flows where the two streams have different particle concentrations. The cause of this issue was investigated by an investigation into the eigenstructure of the governing system of equations and a novel (and somewhat adhoc) multi-velocity formulation was described which can account for compression waves by splitting the particle-phase into distinct velocity families which are transported separately. Switching of the particle families at solid boundaries and due to momentum transfer with the gas-phase was conducted in a manner that enforces conservation of mass, momentum, and energy.
