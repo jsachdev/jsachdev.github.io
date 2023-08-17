@@ -7,9 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
+## T3D
+
+[T3D](t3d.readthedocs.io/en/latest/index.html) (or Trinity3D) is a transport solver for modeling macro-scale profile evolution in fusion plasmas (tokamaks and stellarators).
+
+
 ## TRANSP
 
-[TRANSP](https://transp.pppl.gov/) is a time-dependent 1.5D MHD equilibrium and plasma transport solver for modeling tokamak fusion devices. This software is used by hundreds of scientists at several research centers world-wide for interpreting experimental results, predictive analysis, experimental campaign planning, and rapid between shot analysis. The capabilities of the code has grown significantly over 30+ years of development, particularly with respect to the physics models. Extending the physics capabilities is still being pursued but in coordination with a major overhauling of the code base.
+[TRANSP](https://transp.pppl.gov/) is a time-dependent 1.5D MHD equilibrium and plasma transport solver for modeling tokamak fusion devices. This software is used by hundreds of scientists at several research centers world-wide for interpreting experimental results, predictive analysis, experimental campaign planning, and rapid between shot analysis. The capabilities of the code has grown significantly over 40+ years of development, particularly with respect to the physics models. Maintaining and extending physics models was pursued in coordination with a major overhauling of the code base.
 
 [doi:10.11578/dc.20180627.4](https://www.osti.gov/biblio/1489900-transp)
 
@@ -72,8 +77,3 @@ Numerical schemes applied to internal solid propellant rocket motor flows.
 
 - [J. Sachdev, C. Groth, and J. Gottlieb AIAA 2005-5334](https://doi.org/10.2514/6.2005-5334)
 - [J. Sachdev, C. Groth, and J. Gottlieb Int. J. Comput. Fluid Dyn.](https://www.tandfonline.com/doi/abs/10.1080/10618560410001729135)
-
-Wambo art of PhD thesis:
-
-<img src="https://user-images.githubusercontent.com/10472230/145054792-a602281c-02d7-4d38-b6c3-0da8f45d12d6.png" width="320">
-
