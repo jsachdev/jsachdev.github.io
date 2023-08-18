@@ -53,6 +53,9 @@ CFD studies performed on failure modes and risk assessments of NASA rocket launc
 - [Jai Sachdev, Vineet Ahuja, Ashvin Hosangadi and Daniel Allgood AIAA 2010-6972](https://doi.org/10.2514/6.2010-6972)
 - [Jai Sachdev, Ashvin Hosangadi, James Chenoweth, Regor Saulsberry and Stephen McDougle AIAA-2012-3799](https://doi.org/10.2514/6.2012-3799)
 
+![image](https://github.com/jsachdev/jsachdev.github.io/assets/10472230/67ce8120-dabf-4982-8564-c24130526ab3)
+![image](https://github.com/jsachdev/jsachdev.github.io/assets/10472230/0883b1fb-b885-4c2d-812f-36dbbd18a4c2)
+
 
 ## Eulerian formulations for disperse and dilute particle phase
 
@@ -74,7 +77,8 @@ Development of a block-based adaptive mesh refinement (AMR) scheme for multi-blo
 - [J. Sachdev, C. Groth, and J. Gottlieb AIAA 2005-5334](https://doi.org/10.2514/6.2005-5334)
 - [J. Sachdev, C. Groth, and J. Gottlieb Int. J. Comput. Fluid Dyn.](https://www.tandfonline.com/doi/abs/10.1080/10618560410001729135)
 
-![image](https://user-images.githubusercontent.com/10472230/122476398-1935d580-cf94-11eb-9d8b-e84f1c4190c9.png) ![image](https://user-images.githubusercontent.com/10472230/122476435-2b177880-cf94-11eb-8a96-0a565482cf15.png)
+![image](https://user-images.githubusercontent.com/10472230/122476398-1935d580-cf94-11eb-9d8b-e84f1c4190c9.png)
+![image](https://user-images.githubusercontent.com/10472230/122476435-2b177880-cf94-11eb-8a96-0a565482cf15.png)
 
 Block-based adaptive mesh refinement of a supersonic flow over a bump with $$M_\infty = 2$$. Block boundaries shown in figures with each block containing 32 by 32 cells.
 
