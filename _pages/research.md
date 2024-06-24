@@ -11,11 +11,13 @@ author_profile: true
 
 [T3D](https://t3d.readthedocs.io/en/latest/index.html) (or Trinity3D) is a transport solver for modeling macro-scale profile evolution in fusion plasmas (tokamaks and stellarators).
 
+[N. Mandell et al APS DPP UO06.00011](https://meetings.aps.org/Meeting/DPP23/Session/UO06.11)
 
 ## TRANSP
 
 [TRANSP](https://transp.pppl.gov/) is a time-dependent 1.5D MHD equilibrium and plasma transport solver for modeling tokamak fusion devices. This software is used by hundreds of scientists at several research centers world-wide for interpreting experimental results, predictive analysis, experimental campaign planning, and rapid between shot analysis. The capabilities of the code has grown significantly over 40+ years of development, particularly with respect to the physics models. Maintaining and extending physics models was pursued in coordination with a major overhauling of the code base.
 
+[A.Y. Pankin et al Submited to Computer Physics Communications 2024](https://arxiv.org/abs/2406.07781)
 [doi:10.11578/dc.20180627.4](https://www.osti.gov/biblio/1489900-transp)
 
 
