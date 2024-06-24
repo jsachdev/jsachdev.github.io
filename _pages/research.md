@@ -25,7 +25,8 @@ author_profile: true
 
 Continuous testing, continuous deployment, automation, containerization, devops, ...
 
-[J.S. Sachdev et al SIAM CSE19 Minisymposterium: Software Productivity and Sustainability for CSE and Data Science](https://figshare.com/articles/poster/Modernizing_the_Scientific_Software_Approach_for_the_Fusion_Analysis_Code_TRANSP/7758305)
+- J.S. Sachdev NLIT 2024: A Survey of Sustainable Scientific Software Development Practices at PPPL
+- [J.S. Sachdev et al SIAM CSE19 Minisymposterium: Software Productivity and Sustainability for CSE and Data Science](https://figshare.com/articles/poster/Modernizing_the_Scientific_Software_Approach_for_the_Fusion_Analysis_Code_TRANSP/7758305)
 
 
 ## Pellet ablation models
