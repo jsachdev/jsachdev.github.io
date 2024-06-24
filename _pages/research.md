@@ -17,15 +17,15 @@ author_profile: true
 
 [TRANSP](https://transp.pppl.gov/) is a time-dependent 1.5D MHD equilibrium and plasma transport solver for modeling tokamak fusion devices. This software is used by hundreds of scientists at several research centers world-wide for interpreting experimental results, predictive analysis, experimental campaign planning, and rapid between shot analysis. The capabilities of the code has grown significantly over 40+ years of development, particularly with respect to the physics models. Maintaining and extending physics models was pursued in coordination with a major overhauling of the code base.
 
-[A.Y. Pankin et al Submited to Computer Physics Communications 2024](https://arxiv.org/abs/2406.07781)
-[doi:10.11578/dc.20180627.4](https://www.osti.gov/biblio/1489900-transp)
+- [A.Y. Pankin et al Submited to Computer Physics Communications 2024](https://arxiv.org/abs/2406.07781)
+- [TRANSP: doi:10.11578/dc.20180627.4](https://www.osti.gov/biblio/1489900-transp)
 
 
 ## Best practices for scientific computing
 
 Continuous testing, continuous deployment, automation, containerization, devops, ...
 
-[doi:10.6084/m9.figshare.7758305](https://figshare.com/articles/poster/Modernizing_the_Scientific_Software_Approach_for_the_Fusion_Analysis_Code_TRANSP/7758305)
+[J.S. Sachdev et al SIAM CSE19 Minisymposterium: Software Productivity and Sustainability for CSE and Data Science](https://figshare.com/articles/poster/Modernizing_the_Scientific_Software_Approach_for_the_Fusion_Analysis_Code_TRANSP/7758305)
 
 
 ## Pellet ablation models
