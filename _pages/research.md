@@ -11,7 +11,14 @@ author_profile: true
 
 [T3D](https://t3d.readthedocs.io/en/latest/index.html) (or Trinity3D) is a transport solver for modeling macro-scale profile evolution in fusion plasmas (tokamaks and stellarators).
 
+[J.S. Sachdev et al APS DPP PP12.00047](https://meetings.aps.org/Meeting/DPP24/Session/PP12.47)
 [N. Mandell et al APS DPP UO06.00011](https://meetings.aps.org/Meeting/DPP23/Session/UO06.11)
+ 
+
+## NSTX-U Operational Software
+
+Development of web-based tools for interacting with the NSTX and NSTX-U experiment logbook and viewing/plotting/analyzing experiment shot data.
+
 
 ## TRANSP
 
@@ -23,7 +30,7 @@ author_profile: true
 
 ## Best practices for scientific computing
 
-Continuous testing, continuous deployment, automation, containerization, devops, ...
+Continuous testing, continuous deployment, automation, containerization, devops, ... for research software engineering.
 
 - J.S. Sachdev NLIT 2024: A Survey of Sustainable Scientific Software Development Practices at PPPL
 - [J.S. Sachdev et al SIAM CSE19 Minisymposterium: Software Productivity and Sustainability for CSE and Data Science](https://figshare.com/articles/poster/Modernizing_the_Scientific_Software_Approach_for_the_Fusion_Analysis_Code_TRANSP/7758305)
