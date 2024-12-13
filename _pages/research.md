@@ -11,8 +11,8 @@ author_profile: true
 
 [T3D](https://t3d.readthedocs.io/en/latest/index.html) (or Trinity3D) is a transport solver for modeling macro-scale profile evolution in fusion plasmas (tokamaks and stellarators).
 
-[J.S. Sachdev et al APS DPP PP12.00047](https://meetings.aps.org/Meeting/DPP24/Session/PP12.47)
-[N. Mandell et al APS DPP UO06.00011](https://meetings.aps.org/Meeting/DPP23/Session/UO06.11)
+- [J.S. Sachdev et al APS DPP PP12.00047](https://meetings.aps.org/Meeting/DPP24/Session/PP12.47)
+- [N. Mandell et al APS DPP UO06.00011](https://meetings.aps.org/Meeting/DPP23/Session/UO06.11)
  
 
 ## NSTX-U Operational Software
