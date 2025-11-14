@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+## FUSION FM
+
+Working toward an AI foundation model for magnetic confinement fusion devices. This is a part of a multi-lab collaboration for rapidly developing and deploying AI agents and other tools for accelerating fusion research and engineering. Data curation is paramount for any AI/ML project, including data from experiments and simluations. Towards this end, developmant of methods, procedures, and codes for extracting, transforming, and loading data with appropriate metadata and provenance to be AI-ready tools are being undertaken.
+
 ## T3D
 
 [T3D](https://t3d.readthedocs.io/en/latest/index.html) (or Trinity3D) is a transport solver for modeling macro-scale profile evolution in fusion plasmas (tokamaks and stellarators).
@@ -17,14 +21,14 @@ author_profile: true
 
 ## NSTX-U Operational Software
 
-Development of web-based tools for interacting with the NSTX and NSTX-U experiment logbook and viewing/plotting/analyzing experiment shot data.
+Development of web-based tools for interacting with the NSTX and NSTX-U experiment logbook and viewing/plotting/analyzing experiment shot data. Web-based experimental logbook created using python and Flask and developed in collaboration with NSTX-U experimentalists. This utility offers a modern and much more effecient method for interacting with the experiment logbook. The physics viewer was created using python with Dash and Plotly to provide a quick but comprehensive look experiment shot data through a web-based application. 
 
 
 ## TRANSP
 
 [TRANSP](https://transp.pppl.gov/) is a time-dependent 1.5D MHD equilibrium and plasma transport solver for modeling tokamak fusion devices. This software is used by hundreds of scientists at several research centers world-wide for interpreting experimental results, predictive analysis, experimental campaign planning, and rapid between shot analysis. The capabilities of the code has grown significantly over 40+ years of development, particularly with respect to the physics models. Maintaining and extending physics models was pursued in coordination with a major overhauling of the code base.
 
-- [A.Y. Pankin et al Submited to Computer Physics Communications 2024](https://arxiv.org/abs/2406.07781)
+- [A.Y. Pankin et al, Computer Physics Communications 2024](https://www.sciencedirect.com/science/article/pii/S0010465525001134)
 - [TRANSP: doi:10.11578/dc.20180627.4](https://www.osti.gov/biblio/1489900-transp)
 
 
