@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## FUSION FM
+## Fusion FM
 
 Working toward an AI foundation model for magnetic confinement fusion devices. This is a part of a multi-lab collaboration for rapidly developing and deploying AI agents and other tools for accelerating fusion research and engineering. Data curation is paramount for any AI/ML project, including data from experiments and simluations. Towards this end, developmant of methods, procedures, and codes for extracting, transforming, and loading data with appropriate metadata and provenance to be AI-ready tools are being undertaken.
 
