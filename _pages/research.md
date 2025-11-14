@@ -83,7 +83,7 @@ Contours of the particle concentration for crossing particle jets into a quiesce
 Development of a block-based adaptive mesh refinement (AMR) scheme for multi-block body-fitted structured meshes with automatic solution-directed mesh adaptation according to physics-based refinement criteria. Efficient and scalable parallel implementation achieved on distributed memory multi-processor architectures by evenly allotting the blocks to the available processors. In addition, mesh adjustment scheme was devised in which a body-fitted multi-block mesh is locally adjusted to embedded boundaries that are not aligned with the mesh. This scheme allowed for quick and robust parallel mesh generation involving complex embedded boundaries. The viability of this scheme was demonstrated for stationary and moving embedded boundaries. These algorithms were applied to problems involving microscale flows and multi-phase core flows in solid propellant rocket motor flows.
 
 - [J.G. McDonald, J.S. Sachdev, and C.P.T. Groth AIAA J. 52, 1839 (2014)](https://arc.aiaa.org/doi/10.2514/1.J052576)
-- [J.S. Sachdev and C.P.T. Groth Commun. Comput. Phys. 2 (2007), pp. 1095-1124](http://www.global-sci.com/intro/article_detail/cicp/7941.html)
+- [J.S. Sachdev and C.P.T. Groth Commun. Comput. Phys. 2 (2007), pp. 1095-1124](https://global-sci.org/index.php/cicp/article/view/5492)
 - [J. Sachdev, C. Groth, and J. Gottlieb AIAA 2005-5334](https://doi.org/10.2514/6.2005-5334)
 - [J. Sachdev, C. Groth, and J. Gottlieb Int. J. Comput. Fluid Dyn.](https://www.tandfonline.com/doi/abs/10.1080/10618560410001729135)
 
